@@ -5,7 +5,7 @@ Tools Used : HDFS , Kafka Streaming , Spark Streaming
 
 ## Problem Statement
 
- Computing various Key Performance Indicators (KPIs) for an e-commerce company, RetailCorp Inc. You have been ### provided real-time sales data of the company   across the globe. The data contains information related to the ### invoices of orders placed by customers all around the world.
+ Computing various Key Performance Indicators (KPIs) for an e-commerce company, RetailCorp Inc. You have been provided real-time sales data of the company across the globe. The data contains information related to the invoices of orders placed by customers all around the world.
 
 ## Tasks Performed
 

@@ -1,8 +1,8 @@
 # Retail_Streaming_Analysis
 
-### Language Used : Python
+Language Used : Python
 
-### Tools Used : HDFS , Kafka Streaming , Spark Streaming
+Tools Used : HDFS , Kafka Streaming , Spark Streaming
 
 ## Problem Statement
 

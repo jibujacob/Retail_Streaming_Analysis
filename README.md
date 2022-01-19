@@ -9,10 +9,11 @@ Tools Used : HDFS , Kafka Streaming , Spark Streaming
 
 ## Tasks Performed
 
- 1.Reading the sales data from the Kafka server
- 2.Preprocessing the data to calculate additional derived columns such as total_cost etc
- 3.Calculating the time-based KPIs and time and country-based KPIs
- 4.Storing the KPIs (both time-based and time- and country-based) for a 10-minute interval into separate JSON files for further analysis
+ 1. Reading the sales data from the Kafka server
+ 
+ 2. Preprocessing the data to calculate additional derived columns such as total_cost etc
+ 3. Calculating the time-based KPIs and time and country-based KPIs
+ 4. Storing the KPIs (both time-based and time- and country-based) for a 10-minute interval into separate JSON files for further analysis
 
 ## Example of Data Used:
 
